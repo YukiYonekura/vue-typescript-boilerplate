@@ -1,12 +1,3 @@
 {
-  "extends": "tslint-config-standard",
-  "rules": {
-    "space-before-function-paren": false,
-    "variable-name": [
-      true,
-      "ban-keywords",
-      "check-format",
-      "allow-snake-case"
-    ]
-  }
+  "extends": "tslint-config-standard"
 }
